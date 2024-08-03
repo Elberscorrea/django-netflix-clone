@@ -34,8 +34,8 @@ Siga estas etapas para obter uma cópia local do projeto em execução:
 
 ### Pré-requisitos
 
-- Python 3.x
-- Django 4.x
+- Python 3.12.2
+- Django 4.1.7
 
 ### Instalação
 
