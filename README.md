@@ -41,5 +41,16 @@ Siga estas etapas para obter uma cópia local do projeto em execução:
    
 2. Crie e ative um ambiente virtual:
 
+   ```sh
    python -m venv .venv
    source .venv/bin/activate   # No Windows, use `.venv\Scripts\activate`
+
+
+
+
+
+
+
+
+
+
