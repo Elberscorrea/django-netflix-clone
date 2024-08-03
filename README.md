@@ -65,6 +65,43 @@ Siga estas etapas para obter uma cópia local do projeto em execução:
    ```sh
    python manage.py runserver
 
+## Uso
+
+### Painel de Administração
+
+Acesse o painel de administração do Django em http://127.0.0.1:8000/admin/ para gerenciar filmes e gêneros.
+
+### Adicionando Filmes
+
+1. Vá para o painel de administração.
+   
+2. Adicione novos filmes com seus detalhes (título, descrição, data de lançamento, gênero, duração e imagens).
+   
+### Buscando e Adicionando à Lista
+
+Use a barra de busca na página inicial para encontrar filmes.
+
+Clique nos filmes para ver os detalhes e adicioná-los à sua lista.
+
+## Contribuição
+
+Contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será muito apreciada.
+
+Faça um fork do projeto.
+Crie sua branch de feature (git checkout -b feature/FuncionalidadeIncrível).
+Commit suas mudanças (git commit -m 'Adicionei uma Funcionalidade Incrível').
+Push para a branch (git push origin feature/FuncionalidadeIncrível).
+Abra um Pull Request.
+
+## Licença
+
+Distribuído sob a licença MIT. Veja LICENSE para mais informações.
+
+## Contato
+
+Elber Correa - elber.scorrea@gmail.com
+
+Link do Projeto: https://github.com/Elberscorrea/django-netflix-clone
 
 
 
