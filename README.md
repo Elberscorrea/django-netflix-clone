@@ -88,9 +88,13 @@ Siga estas etapas para obter uma cópia local do projeto em execução:
 Contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será muito apreciada.
 
 1. Faça um fork do projeto.
+   
 2. Crie sua branch de feature (git checkout -b feature/FuncionalidadeIncrível).
+   
 3. Commit suas mudanças (git commit -m 'Adicionei uma Funcionalidade Incrível').
+   
 4. Push para a branch (git push origin feature/FuncionalidadeIncrível).
+   
 5. Abra um Pull Request.
 
 ## Licença
