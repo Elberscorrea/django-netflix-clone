@@ -6,12 +6,18 @@ Bem-vindo ao Django Netflix Clone! Este projeto é um clone simples da Netflix, 
 
 ## Índice
 
+- [Status do Projeto](#status-do-projeto)
 - [Funcionalidades](#funcionalidades)
 - [Começando](#começando)
 - [Uso](#uso)
 - [Contribuição](#contribuição)
 - [Licença](#licença)
 - [Contato](#contato)
+
+## Status do Projeto
+
+🚧 **Em andamento**: Este projeto está em desenvolvimento ativo. Novas funcionalidades e melhorias estão sendo adicionadas regularmente. 
+
 
 ## Funcionalidades
 
