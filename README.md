@@ -38,3 +38,8 @@ Siga estas etapas para obter uma cópia local do projeto em execução:
    ```sh
    git clone https://github.com/Elberscorrea/django-netflix-clone.git
    cd django-netflix-clone
+   
+2. Crie e ative um ambiente virtual:
+
+   python -m venv .venv
+   source .venv/bin/activate   # No Windows, use `.venv\Scripts\activate`
