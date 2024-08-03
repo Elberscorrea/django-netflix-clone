@@ -2,7 +2,7 @@
 
 Bem-vindo ao Django Netflix Clone! Este projeto é um clone simples da Netflix, desenvolvido com Django. Ele apresenta autenticação de usuário, listagem de filmes por gênero, função de busca e uma lista personalizada de filmes para cada usuário. Vamos mergulhar!
 
-![Screenshot do Netflix Clone](static/assets/screenshot.png)
+![Screenshot do Netflix Clone](image-logo.png)
 
 ## Índice
 
