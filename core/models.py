@@ -2,7 +2,7 @@ from django.db import models
 import uuid
 from django.conf import settings
 
-# Create your models here.
+
 class Movie(models.Model):
 
     GENRE_CHOICES = [
